@@ -28,9 +28,9 @@ author_profile: true
 |**Omid Hosseini Jafari**, Michael Ying Yang|
 |**ICRA 2016** [[paper](/publications/pdf/jafari_etal_ICRA16.pdf)]|
 
-|[**Real-time RGB-D based people detection and tracking for mobile robots and head-worn cameras**](/publications/pdf/jafari_etal_ICRA14)|
+|[**Real-time RGB-D based people detection and tracking for mobile robots and head-worn cameras**](/publications/pdf/jafari_etal_ICRA14.pdf)|
 |**Omid Hosseini Jafari**, Dennis Mitzel, Bastian Leibe|
-|**ICRA 2014** [[paper](/publications/pdf/jafari_etal_ICRA14)]|
+|**ICRA 2014** [[paper](/publications/pdf/jafari_etal_ICRA14.pdf)]|
 
 <!-- |[****]()|
 |**Omid Hosseini Jafari**,|
