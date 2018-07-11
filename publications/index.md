@@ -4,9 +4,9 @@ title: Publications
 author_profile: true
 ---
 
-|[**Deep Object Co-Segmentation**](/publications/pdf/)|
+|[**Deep Object Co-Segmentation**](https://arxiv.org/abs/1804.06423)|
 |**Omid Hosseini Jafari**<sup>*</sup>, Weihao Li<sup>*</sup>, Carsten Rother|
-|**2018** [[arxiv](/publications/pdf/)] &nbsp; <sup>*</sup>**equal contribution**|
+|**2018** [[arxiv](https://arxiv.org/abs/1804.06423)] &nbsp; <sup>*</sup>**equal contribution**|
 
 |[**iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects**](/publications/pdf/)|
 |**Omid Hosseini Jafari**<sup>*</sup>, Siva Karthik Mustikovela<sup>*</sup>, Karl Pertsch, Eric Brachmann, Carsten Rother|
