@@ -30,7 +30,7 @@ author_profile: true
 
 |[**Real-time RGB-D based people detection and tracking for mobile robots and head-worn cameras**](/publications/pdf/jafari_etal_ICRA14.pdf)|
 |**Omid Hosseini Jafari**, Dennis Mitzel, Bastian Leibe|
-|**ICRA 2014** [[paper](/publications/pdf/jafari_etal_ICRA14.pdf)][[video](https://youtu.be/rl0CACWCgTU)]|
+|**ICRA 2014** [[paper](/publications/pdf/jafari_etal_ICRA14.pdf)][[![youtube](/assets/youtube.png)video](https://youtu.be/rl0CACWCgTU)]|
 
 <!-- |[****]()|
 |**Omid Hosseini Jafari**,|
