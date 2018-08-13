@@ -1,6 +1,7 @@
 ---
-layout: archive
+layout: home
 author_profile: true
+title: Home
 ---
 
 I am a PhD. candidate at <a href="https://hci.iwr.uni-heidelberg.de/vislearn/" target="_blank">Visual Learning Lab</a> with Prof. Carsten Rother at Heidelberg University.
@@ -36,11 +37,3 @@ I am a PhD. candidate at <a href="https://hci.iwr.uni-heidelberg.de/vislearn/" t
 |[**Real-time RGB-D based people detection and tracking for mobile robots and head-worn cameras**](/publications/pdf/jafari_etal_ICRA14.pdf)|
 |**Omid Hosseini Jafari**, Dennis Mitzel, Bastian Leibe|
 |**ICRA 2014** [[paper](/publications/pdf/jafari_etal_ICRA14.pdf)][[![youtube](/assets/youtube.png)](https://youtu.be/rl0CACWCgTU)][[:link:code](https://www.vision.rwth-aachen.de/software/rgb-d-people-tracking)]|
-
-<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "News" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %} -->
