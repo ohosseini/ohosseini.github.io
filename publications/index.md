@@ -26,7 +26,7 @@ author_profile: true
 
 |[**Real-time RGB-D based template matching pedestrian detection**](/publications/pdf/jafari_etal_ICRA16.pdf)|
 |**Omid Hosseini Jafari**, Michael Ying Yang|
-|**ICRA 2016** [[paper](/publications/pdf/jafari_etal_ICRA16.pdf)][[![youtube](/assets/youtube.png)](https://youtu.be/2RKjaX6xu4o)]|
+|**ICRA 2016** [[paper](/publications/pdf/jafari_etal_ICRA16.pdf)]|
 
 |[**Real-time RGB-D based people detection and tracking for mobile robots and head-worn cameras**](/publications/pdf/jafari_etal_ICRA14.pdf)|
 |**Omid Hosseini Jafari**, Dennis Mitzel, Bastian Leibe|
