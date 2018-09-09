@@ -115,8 +115,8 @@ author_profile: true
 </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 <!-- |[****]()|
 |**Omid Hosseini Jafari**,|
-|**** [[paper]()]| --> -->
+|**** [[paper]()]| -->
