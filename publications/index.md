@@ -6,11 +6,11 @@ author_profile: true
 
 |[**Deep Object Co-Segmentation**](https://arxiv.org/abs/1804.06423)|
 |**Omid Hosseini Jafari**<sup>*</sup>, Weihao Li<sup>*</sup>, Carsten Rother|
-|**2018** [[arxiv](https://arxiv.org/abs/1804.06423)] &nbsp; <sup>*</sup>**equal contribution**|
+|**ACCV 2018** [[arxiv](https://arxiv.org/abs/1804.06423)] &nbsp; <sup>*</sup>**equal contribution**|
 
 |[**iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects**](https://arxiv.org/abs/1712.01924)|
 |**Omid Hosseini Jafari**<sup>*</sup>, Siva Karthik Mustikovela<sup>*</sup>, Karl Pertsch, Eric Brachmann, Carsten Rother|
-|**2018** [[arxiv](https://arxiv.org/abs/1712.01924)] &nbsp; <sup>*</sup>**equal contribution**|
+|**ACCV 2018** [[arxiv](https://arxiv.org/abs/1712.01924)] &nbsp; <sup>*</sup>**equal contribution**|
 
 |[**Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?**](/publications/pdf/ICCV17.pdf)|
 | **Omid Hosseini Jafari**<sup>*</sup>, Aseem Behl<sup>*</sup>, Siva Karthik M<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger|
