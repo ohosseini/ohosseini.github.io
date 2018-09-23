@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
   - title: "CV"
     url: /cv/cv.pdf
   # - title: "Quick-Start Guide"
