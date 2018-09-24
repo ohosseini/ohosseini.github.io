@@ -1,0 +1,50 @@
+---
+layout: projectpage
+title: eal-time RGB-D based people detection and tracking for mobile robots and head-worn cameras
+author_profile: true
+---
+
+<center>
+<h2>Omid Hosseini Jafari, Dennis Mitzel, Bastian Leibe<br/>
+<h2>RWTH Aachen University<br/>
+in ICRA 2014</h2><br/>
+<br/>
+<img src="../publications/figs/icra14.png"/>
+<br/>
+<br/>
+</center>
+
+<p style="text-align: justify;">
+We present a real-time RGB-D based multiperson detection and tracking system suitable for mobile robots and head-worn cameras. Our approach combines RGBD visual odometry estimation, region-of-interest processing, ground plane estimation, pedestrian detection, and multihypothesis tracking components into a robust vision system that runs at more than 20fps on a laptop. As object detection is the most expensive component in any such integration, we invest significant effort into taking maximum advantage of the available depth information. In particular, we propose to use two different detectors for different distance ranges. For the close range (up to 5-7m), we present an extremely fast depth-based upper-body detector that allows video-rate system performance on a single CPU core when applied to Kinect sensors. In order to cover also farther distance ranges, we optionally add an appearance-based full-body HOG detector (running on the GPU) that exploits scene geometry to restrict the search space. Our approach can work with both Kinect RGB-D input for indoor settings and with stereo depth input for outdoor scenarios. We quantitatively evaluate our approach on challenging indoor and outdoor sequences and show stateof-the-art performance in a large variety of settings.
+</p>
+
+<hr/>
+
+<center>
+<h2>Paper</h2>
+<br/>
+    <a href="/publications/pdf/jafari_etal_ICRA14.pdf">
+        <img src="figs/jafari_etal_ICRA14.png">
+    </a>
+    <br/>
+    <a href="/publications/pdf/jafari_etal_ICRA14.pdf">[paper]</a>
+    <br/>
+</center>
+
+<hr/>
+
+<center>
+<h2 >Video</h2>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rl0CACWCgTU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+</center>
+
+<hr/>
+
+<center>
+<h2 >Source Code</h2>
+<br/>
+<a href="https://www.vision.rwth-aachen.de/software/rgb-d-people-tracking">[<i class="em em-link"></i> code]</a>
+<br/>
+</center>
