@@ -1,0 +1,76 @@
+---
+layout: projectpage
+title: Deep Object Co-Segmentation
+author_profile: true
+---
+
+<center>
+<p style="color:gray; font-size:large;">
+Weihao Li*, Omid Hosseini Jafari*, Carsten Rother<br/>
+(* Equal Contribution)<br/>
+Heidelberg University<br/>
+in ACCV 2018<br/>
+</p>
+<img src="/publications/figs/docs.png"/>
+<br/>
+</center>
+
+<p style="text-align: justify;">
+    This work presents a deep object co-segmentation (DOCS) approach for 
+    segmenting common objects of the same class within a pair of images. 
+    This means that the method learns to ignore common, or uncommon, 
+    background <i>stuff</i> and focuses on common <i>objects</i>. 
+    If multiple object classes are presented in the image pair, 
+    they are jointly extracted as foreground. To address this task, 
+    we propose a CNN-based Siamese encoder-decoder architecture. 
+    The encoder extracts high-level semantic features of the foreground objects, 
+    a mutual correlation layer detects the common objects, 
+    and finally, the decoder generates the output foreground masks for each image. 
+    To train our model, we compile a large object co-segmentation dataset consisting of 
+    image pairs from the PASCAL dataset with common objects masks. 
+    We evaluate our approach on commonly used datasets for co-segmentation tasks 
+    and observe that our approach consistently outperforms competing methods, 
+    for both seen and unseen object classes.</p>
+
+<hr/>
+
+<center>
+    <h2>Paper</h2>
+    <a href="/publications/pdf/DOCS_ACCV18.pdf"><img src="/projects/figs/DOCS_ACCV18.png"></a>
+    <br/>
+    <a href="/publications/pdf/DOCS_ACCV18.pdf">[paper]</a>
+    <br/>
+</center>
+
+<hr/>
+
+<center>
+<h2 >Source Code</h2>
+</center>
+<ul>
+    <li><i>Caffe</i> implementation: <a href="">[<i class="em em-link"></i> DOCS-coffe]</a></li>
+    <li><i>pytorch</i> implementation: <a href="">[<i class="em em-link"></i> DOCS-pytorch]</a></li>
+</ul>
+
+<hr/>
+
+<center>
+<h2 >Citation</h2>
+</center>
+
+<!-- <br/>
+<a href=""><img src="/projects/figs/docs_code_fig.png"></a>
+<br/>
+<a href="">[<i class="em em-link"></i> code]</a>
+<br/> -->
+
+<pre>
+    <code >
+    @InProceedings{DOCS_ACCV18,
+        title={Deep Object Co-Segmentation},
+        author={Li, Weihao and Hosseini Jafari, Omid and Rother, Carsten},
+        booktitle={ACCV},
+        year={2018},
+    }      
+    </code>
+</pre>
