@@ -103,8 +103,8 @@ author:
   name             : ""
   avatar           : "/assets/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Scientist in Computer Vision and Machine Learning"
-  location         : "Heidelberg University"
-  email            : "omid.hosseini_jafari@iwr.uni-heidelberg.de"
+  location         : "Munich"
+  email            : "hj.omid@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
