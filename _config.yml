@@ -102,7 +102,7 @@ analytics:
 author:
   name             : ""
   avatar           : "/assets/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD. candidate"
+  bio              : "Research Scientist in Computer Vision and Machine Learning"
   location         : "Heidelberg University"
   email            : "omid.hosseini_jafari@iwr.uni-heidelberg.de"
   uri              :
